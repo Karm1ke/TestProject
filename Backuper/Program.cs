@@ -5,6 +5,9 @@ using System.Windows.Forms;
 
 namespace Backuper
 {
+    /// <summary>
+    /// Основное
+    /// </summary>
     static class Program
     {
         /// <summary>
