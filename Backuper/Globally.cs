@@ -21,6 +21,7 @@ namespace Globally
             public static string host;
             public static string login;
             public static string password;
+            public static string pp;
         }
 
         public  static class  ftp
@@ -29,6 +30,7 @@ namespace Globally
             public static string login;
             public static string password;
             public static int port;
+            public static string mm;
         }
     }
 

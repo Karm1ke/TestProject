@@ -41,14 +41,14 @@
       <HintPath>C:\Users\Katrena\Downloads\BytesRoad.Net.Sockets.dll</HintPath>
     </Reference>
     <Reference Include="Ionic.Zip">
-      <HintPath>..\..\..\27.10.15\Рабочая папка\20.07.15\Beauty CRM ЗС детский МЦ\Админ\6SENSE_ADMINISTRATOR\Шесть чувств Администратор\bin\Debug\Ionic.Zip.dll</HintPath>
+      <HintPath>..\..\..\Library\Ionic.Zip.dll</HintPath>
     </Reference>
     <Reference Include="MySql.Data, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\27.10.15\Рабочая папка\20.07.15\Beauty CRM\Beauty CRM Базовая\Админ\6SENSE_ADMINISTRATOR\Шесть чувств Администратор\bin\Debug\MySql.Data.dll</HintPath>
+      <HintPath>C:\Users\Mihail\Documents\MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="MySqlBackup">
-      <HintPath>..\..\..\27.10.15\Рабочая папка\20.07.15\Beauty CRM\Beauty CRM Базовая\Админ\6SENSE_ADMINISTRATOR\Шесть чувств Администратор\bin\Debug\MySqlBackup.dll</HintPath>
+      <HintPath>..\..\..\Library\MySqlBackup.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
