@@ -101,7 +101,7 @@
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(21, 339);
+            this.progressBar1.Location = new System.Drawing.Point(21, 221);
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(435, 23);
             this.progressBar1.TabIndex = 8;
@@ -110,7 +110,7 @@
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(21, 237);
+            this.checkBox1.Location = new System.Drawing.Point(21, 119);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(191, 17);
             this.checkBox1.TabIndex = 7;
@@ -119,7 +119,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(21, 148);
+            this.button2.Location = new System.Drawing.Point(21, 404);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(257, 23);
             this.button2.TabIndex = 6;
@@ -139,7 +139,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(21, 119);
+            this.button1.Location = new System.Drawing.Point(21, 375);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(257, 23);
             this.button1.TabIndex = 4;
